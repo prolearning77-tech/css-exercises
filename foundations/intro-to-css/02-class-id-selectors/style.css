@@ -2,3 +2,7 @@
 .odd-number {
     background-color: rgb(255, 182, 193); /*Light pink*/
 }
+
+#number-two {
+    color: rgb(0, 0, 255); /*blue color*/
+}
