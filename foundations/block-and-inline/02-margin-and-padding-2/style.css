@@ -29,6 +29,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 8px;
+  margin: 5px;
   align-items: center;
 }
 
