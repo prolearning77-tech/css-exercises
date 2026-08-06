@@ -10,9 +10,17 @@ body {
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  width: 1600px;
   justify-content: space-between;
+  align-items: center;
   border: 5px solid white;
-  margin: 28px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.left-links {
+  padding-left: 0;
+  margin-left: 0;
 }
 
 .logo {
@@ -28,6 +36,8 @@ ul {
   display: flex;
   list-style-type: none;
   gap: 20px;
+  padding: 0;
+  
   
 }
 
