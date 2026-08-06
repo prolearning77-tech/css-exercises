@@ -1,7 +1,12 @@
+body {
+  background-color: lightgray;
+}
 .header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  justify-content: space-between;
+  margin: 24px;
 }
 
 .logo {
@@ -15,6 +20,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  flex-direction: row;
 }
 
 a {
