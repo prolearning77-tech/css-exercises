@@ -16,6 +16,8 @@ body {
   border: 5px solid white;
   padding-top: 10px;
   padding-bottom: 10px;
+  flex-shrink: 1;
+  min-width: 0;
 }
 
 .logo {
