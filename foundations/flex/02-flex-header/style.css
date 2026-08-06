@@ -6,7 +6,7 @@ body {
   background: papayawhip;
   display: flex;
   justify-content: space-between;
-  margin: 24px;
+  border: 5px solid white;
 }
 
 .logo {
@@ -28,7 +28,7 @@ ul {
 a {
   font-size: 22px;
   background: white;
-  padding: 0;
+  padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
 }
