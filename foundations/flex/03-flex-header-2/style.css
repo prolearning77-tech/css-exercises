@@ -19,7 +19,6 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  flex: 1;
   flex-shrink: 1;
   width: 1000px;
   padding: 8px;
