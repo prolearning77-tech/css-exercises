@@ -63,7 +63,7 @@ ul {
 
 .logo-links {
   display: flex;
-  gap: 0;
+  gap: 8px;
 }
 
 .button-image {
