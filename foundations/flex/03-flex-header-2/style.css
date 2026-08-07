@@ -49,3 +49,8 @@ ul {
   display: flex;
   gap: 8px;
 }
+
+.logo-links {
+  display: flex;
+  gap: 8px;
+}
