@@ -6,6 +6,7 @@ body {
   margin: 0;
   background: #d3d3d3;
   font-family: Besley, serif;
+  justify-items: center;
 }
 
 .header {
