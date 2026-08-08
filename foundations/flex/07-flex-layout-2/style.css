@@ -37,6 +37,8 @@ body {
   color: darkmagenta;
   display: flex;
   margin-top: auto; 
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
