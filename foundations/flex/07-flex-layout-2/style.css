@@ -29,6 +29,7 @@ body {
   flex-shrink: 1;
   gap: 20px;
   align-content: flex-start;
+  padding: 32px;
 }
 
 .footer {
