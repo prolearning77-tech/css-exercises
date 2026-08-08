@@ -27,6 +27,7 @@ img {
 .left-links {
   display: flex;
   padding: 0;
+  gap: 10px;
 }
 
 button {
