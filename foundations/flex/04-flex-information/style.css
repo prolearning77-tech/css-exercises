@@ -8,6 +8,8 @@ body {
   background-color: white;
   display: flex;
   flex-direction: column;
+  width: 1500px;
+  align-items: center;
 }
 
 .plants {
