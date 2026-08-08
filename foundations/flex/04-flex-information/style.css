@@ -18,6 +18,7 @@ body {
 
 .plants {
   display: flex;
+  gap: 52px;
 }
 
 .plant-1,
