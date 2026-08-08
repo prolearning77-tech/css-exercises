@@ -17,7 +17,6 @@ body {
 
 .sidebar-cards {
   display: flex;
-  gap: 18px;
 }
 
 .cards {
@@ -25,7 +24,8 @@ body {
   flex-direction: column;
 }
 
-.first-cards {
+.first-cards,
+.second-cards {
   display: flex;
 }
 
@@ -45,4 +45,5 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 48px;
 }
