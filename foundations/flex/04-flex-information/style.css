@@ -6,8 +6,12 @@ body {
 
 .container {
   background-color: white;
+  display: flex;
 }
 
+.plants {
+  display: flex;
+}
 img {
   width: 100px;
   height: 100px;
