@@ -17,10 +17,11 @@ body {
 
 .container {
   background-color: #888;
-  width: 600px;
+  width: 480px;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 50px;
 }
 
 .modal {
