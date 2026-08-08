@@ -24,11 +24,6 @@ body {
   flex-direction: column;
 }
 
-.first-cards,
-.second-cards {
-  display: flex;
-}
-
 .footer {
   height: 72px;
   background: #eee;
