@@ -20,12 +20,15 @@ body {
 .sidebar-cards {
   display: flex;
   flex: 1;
+  gap: 20px;
 }
 
 .cards {
   display: flex;
   flex-wrap: wrap;
   flex-shrink: 1;
+  gap: 20px;
+  align-content: flex-start;
 }
 
 .footer {
