@@ -50,6 +50,7 @@ body {
 .header-close-btn {
   display: flex;
   font-weight: bold;
+  font-size: 20px;
   justify-content: space-between;
 }
 
