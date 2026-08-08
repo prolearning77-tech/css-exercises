@@ -20,6 +20,7 @@ body {
 .plants {
   display: flex;
   gap: 52px;
+  flex-wrap: wrap;
 }
 
 .plant-1,
