@@ -47,6 +47,7 @@ body {
 
 .header-close-btn {
   display: flex;
+  font-weight: bold;
 }
 
 .text {
