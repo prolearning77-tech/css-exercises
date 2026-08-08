@@ -19,7 +19,7 @@ body {
 
 .sidebar-cards {
   display: flex;
-  /*flex: 1;*/
+  flex: 1;
 }
 
 .cards {
