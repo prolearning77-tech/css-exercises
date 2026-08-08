@@ -33,6 +33,16 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
+  flex-shrink: 0; /*item not to shrink*/
+}
+
+ul {
+  list-style: none; /*removes bullets*/
+}
+
+a {
+  text-decoration: none; /*removes underline*/
 }
 
 .card {
