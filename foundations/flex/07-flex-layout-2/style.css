@@ -43,6 +43,7 @@ ul {
 
 a {
   text-decoration: none; /*removes underline*/
+  color: white;
 }
 
 .card {
