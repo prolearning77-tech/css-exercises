@@ -36,7 +36,7 @@ body {
   background: #eee;
   color: darkmagenta;
   display: flex;
-  margin-top: auto;
+  margin-top: auto; 
 }
 
 .sidebar {
@@ -45,7 +45,7 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-shrink: 0; /*item not to shrink*/
-  padding-right: 16px;
+  padding: 16px;
 }
 
 ul {
@@ -70,5 +70,5 @@ a {
   border-radius: 4px;
   padding: 48px;
   width: 220px;
-  height: 160px;
+  height: 180px;
 }
