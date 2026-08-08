@@ -20,6 +20,15 @@ body {
   gap: 18px;
 }
 
+.cards {
+  display: flex;
+  flex-direction: column;
+}
+
+.first-cards {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
