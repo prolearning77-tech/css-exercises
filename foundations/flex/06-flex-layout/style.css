@@ -19,6 +19,10 @@ img {
   width: 600px;
 }
 
+.header {
+  display: flex;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
