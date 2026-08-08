@@ -19,10 +19,13 @@ body {
 
 .sidebar-cards {
   display: flex;
+  /*flex: 1;*/
 }
 
 .cards {
   display: flex;
+ /* flex-wrap: wrap;*/
+ /* flex-shrink: 1;*/
 }
 
 .footer {
@@ -63,7 +66,6 @@ a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 48px;
-  width: 300px;
-  height: 320px;
-  flex-wrap: wrap;
+  width: 220px;
+  height: 160px;
 }
