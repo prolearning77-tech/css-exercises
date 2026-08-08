@@ -24,7 +24,8 @@ img {
   justify-content: space-between;
 }
 
-.left-links {
+.left-links,
+.right-links {
   display: flex;
   padding: 0;
   gap: 10px;
