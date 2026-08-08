@@ -7,11 +7,13 @@ body {
 .container {
   background-color: white;
   display: flex;
+  flex-direction: column;
 }
 
 .plants {
   display: flex;
 }
+
 img {
   width: 100px;
   height: 100px;
