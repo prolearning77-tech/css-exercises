@@ -2,6 +2,9 @@ body {
   font-family: 'Courier New', Courier, monospace;
   background-color: lightgray;
   display: flex;
+  min-height: 100vh; /*viewport height - the height of the visible browser*/
+  justify-content: flex-end;
+  align-items: center;
 
 }
 
