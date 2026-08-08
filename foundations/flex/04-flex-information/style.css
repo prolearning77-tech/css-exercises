@@ -16,7 +16,10 @@ body {
   display: flex;
 }
 
-.plant-1 {
+.plant-1,
+.plant-2,
+.plant-3,
+.plant-4 {
   display: flex;
   flex-direction: column;
   width: 200px;
