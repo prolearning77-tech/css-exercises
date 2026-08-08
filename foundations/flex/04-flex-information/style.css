@@ -1,6 +1,11 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   background-color: lightgray;
+
+}
+
+.container {
+  background-color: white;
 }
 
 img {
