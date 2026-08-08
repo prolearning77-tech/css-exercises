@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -34,6 +36,7 @@ img {
 .footer {
   display: flex;
   justify-content: space-between;
+  margin-top: auto; /*pushes the footer to the bottom*/
 }
 
 button {
