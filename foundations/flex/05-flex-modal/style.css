@@ -15,6 +15,12 @@ body {
   justify-content: center;
 }
 
+.container {
+  background-color: #888;
+  width: 600px;
+  display: flex;
+}
+
 .modal {
   background: white;
   width: 480px;
